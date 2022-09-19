@@ -2,7 +2,7 @@
 - 👀 I’m interested in AWS
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me here, any one please help
+- 📫 How to reach here, any one please help
 
 <!---
 smeshsmesh/smeshsmesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
